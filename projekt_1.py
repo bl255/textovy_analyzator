@@ -1,3 +1,10 @@
+"""
+projekt_1.py: první projekt do Engeto Online Python Akademie
+author: Martina Vasiľová
+email: zpráva discord
+discord: zpráva discord
+"""
+
 import sys
 import re
 from collections import Counter
@@ -88,4 +95,3 @@ for le, occur in text_lengths:
     prc = occur / anl["all"] * 100
     line = [le, occur, round(prc, 2), round(prc) * '*']
     print_table_line(line)
-

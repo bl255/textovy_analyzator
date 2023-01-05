@@ -89,5 +89,3 @@ for le, occur in text_lengths:
     line = [le, occur, round(prc, 2), round(prc) * '*']
     print_table_line(line)
 
-# TODO readme
-# TODO skontroluj gramatku

@@ -13,7 +13,8 @@ The task was to create a program which:
 
 Program preview:
 
-![whole](doc_images/whole.png)
+
+<img src=doc_images/whole.png width="475">
 
 ### Added Functionality - Language Choice
 I added the choice of the language at the beginning of the program run.
@@ -23,7 +24,7 @@ I added the choice of the language at the beginning of the program run.
 
 Based on the user choice, the text strings for inputs and print statements are imported from the respective python files in the languages' directory.
 
-![lang](doc_images/lang.png)
+<img src=doc_images/lang.png width="433">
 
 ### Structure
 * [projekt_1.py](projekt_1.py) - the main file for running the program
